@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+h1 {
+  padding-bottom: 50px;
+}
+.nav {
+  text-decoration: none;
+  color: white;
+  margin-left: 50px;
+}
+.userCard {
+  width: 300px;
+  margin: 20px;
+  background-image: url("https://img.freepik.com/vecteurs-libre/technologie-moderne-abstrait-couleur-blanc-gris_41981-1010.jpg?size=626&ext=jpg");
+  box-shadow: 12px 12px 2px 1px rgba(160, 160, 167, 0.2);
+}
+.cards {
+  padding-top: 100px;
+}
+.userslist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.users {
+  width: 300px;
+  margin-left: 530px;
+}
+.user-name {
+  color: darkcyan;
+  font-size: 400;
+}
+.home {
+  background-image: url("https://media.istockphoto.com/photos/white-gray-geometric-wallpaper-background-picture-id1018450682?k=6&m=1018450682&s=612x612&w=0&h=OTxKQKfElC-_JTdG-kdPJkEpxH2nbxArmCt1YKZClYk=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 570px;
+}
